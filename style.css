@@ -1,0 +1,121 @@
+ .pottery {
+    position: absolute;
+    top: 400px;
+    left: 310px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+}
+
+.pottery-text p {
+    margin: 0;
+    padding: 0;
+}
+.next {
+    position: absolute;
+    top: 260px;
+    left: 130px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+}
+.slide2{
+    position: absolute;
+    top: 50px;
+    left: 810px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+    text-align: center;
+}
+.slide3{
+    position: absolute;
+    top: 220px;
+    left: 270px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #F5F1E5;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+    text-align: center;
+}
+.slide4{
+    position: absolute;
+    top: 370px;
+    left: 219px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+    text-align: center;
+}
+.slide5{
+    position: absolute;
+    top: 140px;
+    left: 425px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+    text-align: center;
+}
+.slide6{
+    position: absolute;
+    top: 180px;
+    left: 295px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+    text-align: center;
+    width: 400px;
+}
+.slide7{
+    position: absolute;
+    top: 253px;
+    left: 407px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #F5F1E5;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+    text-align: center;
+    width: 400px;
+}
+.slide8{
+    position: absolute;
+    top: 405px;
+    left: 730px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #7D4911;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+}
